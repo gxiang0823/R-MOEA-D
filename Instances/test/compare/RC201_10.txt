@@ -1,0 +1,18 @@
+Vehicle
+Number		Capacity
+5		50
+
+Customer
+Cus No.		XCOORD.		YCOORD.		Volume		ExecTime
+
+0		33		62		12		93		
+1		4		56		15		86		
+2		63		61		39		95		
+3		40		38		6		95		
+4		57		93		24		47		
+5		31		64		2		81		
+6		34		55		7		64		
+7		54		31		48		25		
+8		70		72		2		100		
+9		56		68		29		100		
+10		92		77		24		20		
